@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha aplicação</string>
+    <string name="health">+Saúde❤️</string>
+    <string name="national_identification_number">Numero Identidade</string>
+    <string name="date_of_birth">Data de aniversário</string>
+    <string name="send">enviar</string>
+    <string name="register">cadastre-se</string>
+    <string name="Send">Enviar</string>
+    <string name="sex">Sexo</string>
+    <string name="masculine">Masculino</string>
+    <string name="feminine">Feminino</string>
+    <string name="phone">Telefone</string>
+    <string name="data_of_birth">Data de aniversário</string>
+    <string name="national_identication_number">Numero Identidade</string>
+    <string name="full_name">Nome completo</string>
+    <string name="Register">Cadastre-se</string>
+</resources>
